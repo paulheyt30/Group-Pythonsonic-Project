@@ -1,5 +1,5 @@
 # Group-Pythonsonic-Project
-Play to Win—— Analysis and Prediction of NBA Game’s Dataset
+# Program Title: Play to Win—— Analysis and Prediction of NBA Game’s Dataset
 
 Team Member: Dong Wenhui (G2001154H), He Hongshan(G2001279B), He Yuting( G2001441C)
 
